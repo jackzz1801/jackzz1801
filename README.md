@@ -16,7 +16,7 @@ I’m currently working on **website development**
 
 ## 🛠️ Languages and Tools:
 
-![Languages](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,java,cpp,go,docker,git,linux)
+![Languages](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,java,git,linux)
 
 ---
 
